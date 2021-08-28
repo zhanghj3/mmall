@@ -7,4 +7,7 @@ File >> Settings >> Plugins >> Broswe Responsities >> 搜索'mybatis plugin',选
 如何使用参考github：https://github.com/pagehelper/Mybatis-PageHelper/blob/master/README.md  
 5.web.xml配置字符集过滤器，springmvc拦截器，mybatis配置数据源，spring包扫描  
 6.logback.xml配置和ftp服务器的配置  
+7.idea自动编译：File->Settings->Compiler->auto打勾  
+  idea忽略@AutoWired报错：File->Settings->Inspections->Spring->Spring Core->Code->去掉Autowiring for Bean Class  
+
 
