@@ -92,6 +92,20 @@
       <!--<scope>runtime</scope>-->
     </dependency>
 
+    <!--日志logback-->
+    <dependency>
+      <groupId>ch.qos.logback</groupId>
+      <artifactId>logback-classic</artifactId>
+      <version>1.1.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>ch.qos.logback</groupId>
+      <artifactId>logback-core</artifactId>
+      <version>1.1.2</version>
+      <scope>compile</scope>
+    </dependency>
+
     <!-- mybatis pagehelper -->
     <dependency>
       <groupId>com.github.pagehelper</groupId>
@@ -109,6 +123,14 @@
       <version>0.9.4</version>
     </dependency>
 
+    <!-- ftpclient -->
+    <dependency>
+      <groupId>commons-net</groupId>
+      <artifactId>commons-net</artifactId>
+      <version>3.1</version>
+    </dependency>
+
+    <!---->
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>

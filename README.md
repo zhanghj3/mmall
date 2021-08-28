@@ -5,4 +5,6 @@
 File >> Settings >> Plugins >> Broswe Responsities >> 搜索'mybatis plugin',选择最多的 >> install >> restart IDEA  
 4.mybatis三剑客之：mybatis-pagehelper >> 分页  
 如何使用参考github：https://github.com/pagehelper/Mybatis-PageHelper/blob/master/README.md  
-5.web.xml配置字符集过滤器，springmvc拦截器，mybatis配置数据源，spring包扫描
+5.web.xml配置字符集过滤器，springmvc拦截器，mybatis配置数据源，spring包扫描  
+6.logback.xml配置和ftp服务器的配置  
+
